@@ -109,7 +109,7 @@ const HomeScreen: React.FC<HomeScreenProps> = ({
         {/* WELCOME SECTION */}
         <View style={styles.welcomeSection}>
           <View style={styles.greetingContainer}>
-            <Text style={styles.greeting}>Hello, Harshit</Text>
+            <Text style={styles.greeting}>Hello</Text>
             <Text style={styles.wave}> 👋</Text>
           </View>
 
